@@ -1,0 +1,2 @@
+# VideoKeyFrameExtractor
+保存视频中差异度大的关键帧为图片
